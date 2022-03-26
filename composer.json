@@ -114,7 +114,7 @@
         "sensio/generator-bundle": "~3.0",
         "babdev/transifex": "~1.0",
         "webfactory/exceptions-bundle": "~4.3",
-        "phpunit/phpunit": "4.5",
+        "phpunit/phpunit": "4.8.28",
         "friendsofphp/php-cs-fixer": "^1.12",
         "symfony/var-dumper": "^3.2"
     },
